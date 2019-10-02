@@ -1,21 +1,21 @@
 // TAREA: Imprimí cada 3er número del 3 al 22 usando un 'bucle for'.
 
-/*
+
 for (let number=3; number < 22; number = number + 3){
     console.log(`${number}`)
 }
-*/
+
 
 // TAREA: Usando un bucle 'while', decile a tu computadora que registre los números de
 //       diez a uno.
 
-/*
+
 let number = 10
 while (number > 0){
     console.log(`${number}`)
     number = number - 1
 }
-*/
+
 
 // TAREA: Ha llegado el momento de un ejercicio clásico: 'FizzBuzz'.
 // Cuenta del 1 al 50 e imprime los números:
